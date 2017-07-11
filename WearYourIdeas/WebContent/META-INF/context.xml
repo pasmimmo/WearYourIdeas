@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<Context path="/WearYourIdeas">
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" name="jdbc/ecommerce" password="ciaociao" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/ecommerce" username="root"/>
+</Context>
